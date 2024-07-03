@@ -58,6 +58,11 @@
     }
     article {
       font-size: 1rem;
+      display: flex;
+    }
+    article div{
+        width: 80%;
+    
     }
     footer nav {
       height: fit-content;
